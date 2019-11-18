@@ -1,0 +1,39 @@
+---
+title: "Lab Manual for the Computational Social Neuroscience Group (CSNG)"
+author: 'Authors: The CSNG'
+date: "Updated on `r Sys.Date()`"
+site: bookdown::bookdown_site
+output: html_document
+documentclass: book
+bibliography: 
+  - book.bib 
+  - packages.bib
+biblio-style: natbib
+link-citations: yes
+description: This book constitute the lab manual for the Computational Social Neuroscience Group (CSNG). The output format for this example is bookdown::html_book.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Welcome! {-}
+
+Welcome to the Computational Social Neuroscience Group at George Mason University. If you are reading our lab manual because you recently joined the CSNG, welcome! If you are a current member of the CSNG, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. 
+
+We also look forward to immerse you in different learning experiences, such as in neuroscience, psychology, and programming. In addition, develop new skills, expand your network, and do our best for you to enjoy your time at the CSNG.
+
+This lab manual was inspired by several others, and borrows heavily from them. It’s also a work in progress; therefore, updates are implemented as we move forward. If you have ideas about things to add, or what to clarify, feel free to talk to Jim or any of the current CSNG members.
+
+When you join the lab, you are expected to read this manual and sign a form within your first 7 days in the CSNG indicating that you have done so. Signing this form confirms that you will perform your duties and meet the expectations according to this manual. The form to sign can be found in the Team Drive within our Google account. If you are not able to access the form, make sure to contact Jim.
+
+**Welcome to the CSNG!**
+
+*Note: the date listed above corresponds to the date the manual was updated. The date this manual was initially created was on September 20th, 2018.*
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+---
+

@@ -1,0 +1,35 @@
+---
+title: "04-expectations"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Expectations and Responsibilities
+
+## General Expectations and Responsibilities
+
+## Principal Investigator
+
+## Graduate Students
+
+- Help mentor
+- Make sure you meet all of your departmental deadlines and notify Jim about them.
+- Keep a clean and organized lab space so that others can access items with ease. 
+- Develop your dissertation research
+- Prioritize time for research
+- Know the literature related to your topic like the back of your hand. 
+
+
+## Research Assistants
+
+. . . 
+
+## Undergraduate Interns
+
+- Assist lab members with data collection/entry and analysis
+- Develop your weekly schedule by talking to your graduate student mentor 
+- Attend lab meetings 
+

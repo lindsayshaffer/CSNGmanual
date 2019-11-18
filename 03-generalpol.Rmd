@@ -1,0 +1,26 @@
+---
+title: "03-generalpol"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# General Policies
+
+## Hours
+
+## Noise
+
+## PI Office Hours
+
+## Lab Meetings
+
+## Deadlines
+
+## Presentations
+
+## Letters of Recommendation
+
+## Data Management

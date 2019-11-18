@@ -1,0 +1,44 @@
+---
+title: "05-conduct"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Code of Professional Conduct and Scientific Ethics
+
+## Essential Policies
+
+The lab, and the university, is an environment that must be free of harassment and discrimination. All lab members are expected to abide by the George Mason University policies on discrimination and harassment, which you can (and must) read about here. Essential policies of George Mason University can be accessed here.
+
+The lab is committed to ensuring a safe, friendly, and accepting environment for everybody. We will not tolerate any verbal or physical harassment or discrimination on the basis of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We will not tolerate intimidation, stalking, following, unwanted photography or video recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Finally, it should go without saying that lewd language and behavior have no place in the lab, including any lab outings.
+
+If you notice someone being harassed, or are harassed yourself, tell Jim immediately. If Jim is the cause of your concern, then reach out to the Department Chair Keith Renshaw, Department Ombudsman, Tyler Shaw, or Title IX coordinator, Jennifer Hammat. 
+
+
+## Taking Photos & Videos
+
+We respect the privacy and comfort of lab members by only taking photos or video recordings of them with their explicit knowledge and consent. This is especially important in situations where a lab member would otherwise not be aware of you taking a photo and therefore cannot object if they do not want you to – e.g., if they are wearing headphones, or are being scanned. To avoid ambiguity about when a lab member is vs is not aware of photos being taken, we ask that everyone obtain consent from lab members before taking photos or videos, and obtain consent again before posting any images on social media. This is done to respect others’ privacy and acknowledge that people have varying degrees of comfort related to being photographed and especially with having those photographs shared on social media.
+
+The goal of this is to foster an environment where everyone feels safe to be who they are, take risks, and have fun, without worry or self-consciousness. If someone wants to be photographed doing something fun or silly in lab events, and consents to be photographed, by all means go ahead! Just please respect the privacy of those who do not want that. 
+
+On a related note, you cannot photograph your participants during an experiment.
+
+## Scientific Integrity
+
+The lab, and George Mason University, is committed to ensuring research integrity, and we take a hard line on research misconduct. 
+
+The Department of Health and Human Services defines research misconduct as *“fabrication, falsification, or plagiarism in proposing, performing, or reviewing research, or in reporting research results:
+
+(a) Fabrication is making up data or results and recording or reporting them.
+(b) Falsification is manipulating research materials, equipment, or processes, or changing or omitting data or results such that the research is not accurately represented in the research record.
+(c) Plagiarism is the appropriation of another person's ideas, processes, results, or words without giving appropriate credit.
+(d) Research misconduct does not include honest error or differences of opinion.”*
+
+Source: https://ori.hhs.gov/definition-misconduct
+
+We will not tolerate fabrication, falsification, or plagiarism. Any instance of any lab member (e.g., undergraduate, grad student) found to have committed research misconduct will be immediately removed from the lab.
+
+Read George Mason’s policies on the conduct of research carefully (misconduct policy here, institutional policy for research here)

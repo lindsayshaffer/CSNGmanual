@@ -1,0 +1,32 @@
+---
+title: "Lab Values"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Lab Values
+
+## Vision
+
+## Mission
+
+## Core Values
+The core values of the CSNG are 
+
+- Inclusiveness (everyone’s voice counts)
+- Multi-disciplinary focus (integrate different disciplines into our research goals)
+- Diversity (value and respect differences in perspectives and opinions)
+- Integrity (follow strict institutional, scientific, and ethical guidelines)
+- Productivity (input our highest efforts to reach our goals)
+- Innovation (remain open-minded, and learn from both successes and failures)
+- Excellence (target the highest quality of scientific research)
+- Collaboration (what is done in isolation is often accomplished better in partnership)
+- Leadership (nourish from a culture of intra and inter-motivation and inspiration)
+
+We feel that these Core Values are vital to success in science, and it is important that every member of the CSNG strive to fulfill them at all times.
+
+It is also important to maintain a healthy work environment. *Professionalism* must always be implemented to maintain, and refrain from unnecessary or inappropriate commentary: this will greatly contribute to a healthy CSNG environment.
+
